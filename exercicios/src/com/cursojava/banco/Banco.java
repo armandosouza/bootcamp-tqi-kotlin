@@ -1,6 +1,6 @@
 package com.cursojava.banco;
 
-/*
+/**
  * Representação simples de uma conta bancária 
  * @author Armando Souza
  * @version 1.0
