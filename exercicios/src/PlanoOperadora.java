@@ -27,5 +27,6 @@ public class PlanoOperadora {
                 System.out.println("Opção inválida");
             }
         }
+        scanner.close();
     }
 }

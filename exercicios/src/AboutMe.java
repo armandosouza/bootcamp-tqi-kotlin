@@ -12,5 +12,6 @@ public class AboutMe {
 
         System.out.println("Idade: " + idade);
         System.out.println("Nome: " + nome);
+        scanner.close();
     }
 }
