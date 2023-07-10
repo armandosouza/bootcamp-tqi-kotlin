@@ -1,4 +1,4 @@
-package com.dio.exercicios;
+package com.dio.exercicios1;
 import java.util.Scanner;
 
 public class Ex_Nome_e_Idade {

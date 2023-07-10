@@ -16,7 +16,7 @@ class Veiculo {
     }
 
     double obterCapacidadeTanque() {
-        return capacidadeTanque;
+        return this.capacidadeTanque;
     }
 
     void setarCapacidadeTanque(double valor) {
@@ -28,7 +28,7 @@ class Veiculo {
     }
 
     String obterModelo() {
-        return modelo;
+        return this.modelo;
     }
 
     void setCor(String cor) {
@@ -36,6 +36,6 @@ class Veiculo {
     }
 
     String obterCor() {
-        return cor;
+        return this.cor;
     }
 }

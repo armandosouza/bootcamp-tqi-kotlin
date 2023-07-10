@@ -1,4 +1,4 @@
-package com.dio.exercicios;
+package com.dio.exercicios1;
 
 public class Ex_Ordem_Inversa {
     public static void main(String[] args) {

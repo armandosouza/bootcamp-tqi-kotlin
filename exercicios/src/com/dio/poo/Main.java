@@ -9,12 +9,10 @@ public class Main {
         System.out.println(carro.obterModelo());
         carro.calcularEncherTanque(7.45);
 
-        Funcionario funcionario = new Funcionario();
-
-        Funcionario gerente = new Gerente();
-        Funcionario vendedor = new Vendedor();
-        Funcionario faxineiro = new Faxineiro();
-
-        Vendedor vendedor2 = (Vendedor) new Funcionario();
+        Empregado empregado = new Empregado();
+        empregado.nome = "Armando";
+        empregado.idade = 23;
+        empregado.imprimirDados();
+        empregado.mediaSalarial();
     }
 }
